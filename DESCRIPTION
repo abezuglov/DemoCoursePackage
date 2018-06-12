@@ -8,3 +8,4 @@ Description: This is a demo package for CVW 2018 at Grinnell College
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+Suggests: testthat
